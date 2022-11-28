@@ -1,5 +1,5 @@
 # Rently Assessment
-This project was built with [Nuxt 3](https://github.com/facebook/create-react-app).
+This project was built with [Nuxt 3](https://nuxt.com/docs/getting-started/installation).
 
 ## Project setup
 ```
