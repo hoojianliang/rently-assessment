@@ -1,4 +1,5 @@
 # Rently Assessment
+This project was built with [Nuxt 3](https://github.com/facebook/create-react-app).
 
 ## Project setup
 ```
@@ -14,3 +15,6 @@ npm run dev
 ```
 npm run build
 ```
+
+#### Deployment
+Deployed to netlify but got [error](https://legendary-douhua-b2a288.netlify.app/)
